@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 30821cd01464bcb489213a00b5832294
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d500fa8e36482a949925bbab9c22f924
+  - enabled: 1
+    path: Assets/Scenes/HistoriaUno.unity
+    guid: b2533d0451cd4224194eacc05b731f25
+  - enabled: 1
+    path: Assets/Scenes/HistoriaDos.unity
+    guid: f71a6ff1c13769b4db9a28fd6b13d209
+  - enabled: 1
+    path: Assets/Scenes/HistoriaTres.unity
+    guid: c3467b93ba7a8044ab5c19a082403b11
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 80f7dc9ed5ede6141bd4c5b29a7c258e
